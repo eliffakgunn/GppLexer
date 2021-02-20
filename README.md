@@ -1,6 +1,6 @@
 # GppLexer
 
-A lexer that accepts any set of valid G++ expressions and reject incorrect expressions. It tokenizes the valid statements of the G++ language and identify incorrect statements and produce an error message regarding the incorrect statement. G++ programming language is Lisp like programming language and it is described in Gppsyntax.pdf file.  
+A syntax analyzer that accepts any set of valid G++ expressions and reject incorrect expressions. It tokenizes the valid statements of the G++ language and identify incorrect statements and produce an error message regarding the incorrect statement. G++ programming language is Lisp like programming language and it is described in Gppsyntax.pdf file.  
 
 It implemented two different ways: using Flex and in Lisp.  
 
