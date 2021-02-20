@@ -18,7 +18,9 @@ make
 clisp gpp_lexer.lisp or clisp gpp_lexer.lisp <file_name>
   
 
-*In both part, if you enter file name as parameter, it reads file. Otherwise program enters into REPL mode.*
+*In both part, if you enter file name as parameter, it reads file. Otherwise program enters into REPL mode.*  
+
+You can check assignment file and report for more details and sample input/output.
 
 
 
