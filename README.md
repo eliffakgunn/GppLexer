@@ -8,7 +8,7 @@ It implemented two different ways: using Flex and in Lisp.
 
 You can run this program with following commands:
 
-##Part 1 - Flex Lexer:
+## Part 1 - Flex Lexer:
 
 There is a makefile in this part.
 
@@ -20,7 +20,7 @@ lex gpp_lexer.l //generate C file
 gcc lex.yy.c //compile C file
 ./a.out or ./a.out <file_name> //runs program
 
-##Part 2 - Clisp Lexer:
+## Part 2 - Clisp Lexer:
 
 clisp gpp_lexer.lisp or clisp gpp_lexer.lisp <file_name>
 
